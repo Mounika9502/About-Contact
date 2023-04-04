@@ -61,7 +61,7 @@ const services = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: 'musketeers@att.onmicrosoft.com',
+  YOUR_EMAIL: 'musketeers@gmail.com',
   YOUR_FONE: '9123456789',
   description:
     'You can reach us via email, phone, or through our online contact form. Our team is available to assist you during regular business hours, and we ll do our best to get back to you as soon as possible',
